@@ -9,3 +9,6 @@
 
 ### Final Plane
 ![Final Plane](images/Final fixed-wing UAV.jpeg)
+
+### Measurements
+![Measurements](images/Measurements.jpeg)
