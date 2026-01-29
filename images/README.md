@@ -7,3 +7,5 @@
 ### 3D printed mounts
 ![Mounts](images/3d printed mounts.jpeg)
 
+### Final Plane
+![Final Plane](images/Final fixed-wing UAV.jpeg)
